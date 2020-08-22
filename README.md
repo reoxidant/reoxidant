@@ -45,6 +45,10 @@
   </a>
 </p>
 
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 📢 Find me elsewhere
 <a href="https://linkedin.com/in/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reoxidant" height="30" width="30" /></a> &nbsp; &nbsp;
