@@ -1,4 +1,4 @@
-## Hello there 👋, I am Vitalii Shapovalov
+## Hello there 👋, I am Vitalii
 
 **Get in touch:**
 [![Gmail Badge](https://img.shields.io/badge/-kupper133@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kupper133@gmail.com)](mailto:kupper133@gmail.com) 
