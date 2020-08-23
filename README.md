@@ -4,12 +4,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-kupper133@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kupper133@gmail.com)](mailto:kupper133@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-reoxidant-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reoxidant/)](https://www.linkedin.com/in/reoxidant/) [![Github Badge](https://img.shields.io/badge/-reoxidant-grey?style=flat&logo=github&logoColor=white&link=https://github.com/reoxidant/)](https://www.github.com/reoxidant/) ![Profile views](https://gpvc.arturio.dev/reoxidant)
 
-- 🔭 I’m currently working on module 
-- 🌱 I’m currently learning modile technologies
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with development patterns
-- 💬 Ask me about  
-- 📫 How to reach me: facebook
+- 🔭 I’m currently working on contract work
+- 🌱 I’m currently learning mobile technologies
+- 👯 I’m looking to collaborate on mobile or web development project no matter what is
+- 🤔 I’m looking for help with development patterns or another architectural concept
+- 💬 Ask me about any development questions
+- 📫 How to reach me: facebook, linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🐈💨
 
