@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with development patterns or another architectural concept
 - 💬 Ask me about any development questions
 - 📫 How to reach me: facebook, linkedin
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him...
 - ⚡ Fun fact: 🐈💨
 
 🛠 **Technologies & Tools**
