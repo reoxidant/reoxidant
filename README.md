@@ -13,9 +13,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🐈💨
 
-## 🛠 Technologies & Tools
+### 🛠 Technologies & Tools
 
-### 🖥 Web
+🖥 **Web**
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -30,7 +30,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </p>
 
-### 📱 Mobile
+📱 **Mobile**
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
@@ -38,7 +38,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-### 🧑🏼‍🎨 Design
+🧑🏼‍🎨 **Design**
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
@@ -47,7 +47,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <p/>
 
-## &#x1f4c8; GitHub Stats
+&#x1f4c8; **GitHub Stats**
 <p>
   <a href="https://github.com/reoxindat/reoxidant">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&hide=java,html&title_color=20232a&text_color=20232a&icon_color=2bbc8a" />
@@ -62,12 +62,13 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-## 📢 Find me elsewhere
+### 📢 Find me elsewhere
+<p>
 <a href="https://linkedin.com/in/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reoxidant" height="30" width="30" /></a> &nbsp; &nbsp;
 <a href="https://fb.com/soulmomental" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="soulmomental" height="30" width="30" /></a> &nbsp; &nbsp;
 <a href="https://stackoverflow.com/users/13626085" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13626085" height="30" width="30" /></a> &nbsp; &nbsp;
 <a href="https://www.behance.net/enfatiko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="enfatiko" height="30" width="30" /></a> &nbsp;
-
+</p>
 <!-- OLD -->
 
 <!--![Reoxidant's github stats](https://github-readme-stats.vercel.app/api?username=reoxidant) -->
