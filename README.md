@@ -4,6 +4,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-kupper133@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kupper133@gmail.com)](mailto:kupper133@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-reoxidant-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reoxidant/)](https://www.linkedin.com/in/reoxidant/) [![Github Badge](https://img.shields.io/badge/-reoxidant-grey?style=flat&logo=github&logoColor=white&link=https://github.com/reoxidant/)](https://www.github.com/reoxidant/) ![Profile views](https://gpvc.arturio.dev/reoxidant)
 
+- 🔭 I’m currently working on module 
+- 🌱 I’m currently learning modile technologies
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with development patterns
+- 💬 Ask me about  
+- 📫 How to reach me: facebook
+- 😄 Pronouns: ...
+- ⚡ Fun fact: 🐈💨
+
 ## 🛠 Technologies & Tools
 
 ### 🖥 Web
@@ -55,9 +64,9 @@ No Activity tracked this Week
 
 ## 📢 Find me elsewhere
 <a href="https://linkedin.com/in/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reoxidant" height="30" width="30" /></a> &nbsp; &nbsp;
-<a href="https://stackoverflow.com/users/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="reoxidant" height="30" width="30" /></a> &nbsp; &nbsp;
 <a href="https://fb.com/soulmomental" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="soulmomental" height="30" width="30" /></a> &nbsp; &nbsp;
-<a href="https://www.behance.net/soulmomental" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="soulmomental" height="30" width="30" /></a> &nbsp; &nbsp;
+<a href="https://stackoverflow.com/users/13626085" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13626085" height="30" width="30" /></a> &nbsp; &nbsp;
+<a href="https://www.behance.net/enfatiko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="enfatiko" height="30" width="30" /></a> &nbsp;
 
 <!-- OLD -->
 
