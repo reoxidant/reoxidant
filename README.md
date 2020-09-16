@@ -26,7 +26,9 @@
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
 &#x1f4c8; **GitHub Stats** 
-<p><a href="https://github.com/reoxindat/reoxidant"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&hide=java,html&title_color=20232a&text_color=20232a&icon_color=2bbc8a"/></a></p>
+<!--<p><a href="https://github.com/reoxindat/reoxidant"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&hide=java,html&title_color=20232a&text_color=20232a&icon_color=2bbc8a"/></a></p> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&layout=compact)]()
 
 
 📊 **This week I spent my time on**
