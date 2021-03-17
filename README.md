@@ -41,6 +41,9 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&langs_count=8&layout=compact&title_color=000)]()-->
 
 📊 **This week I spent my time on**
+
+[![reoxidant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reoxidant)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ```text
 Swift      23 hrs 24 mins  ███████████████▓░░░░░░░░░   62.82 % 
