@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-kupper133@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kupper133@gmail.com)](mailto:kupper133@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-reoxidant-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reoxidant/)](https://www.linkedin.com/in/reoxidant/) [![Github Badge](https://img.shields.io/badge/-reoxidant-grey?style=flat&logo=github&logoColor=white&link=https://github.com/reoxidant/)](https://www.github.com/reoxidant/) ![Profile views](https://gpvc.arturio.dev/reoxidant)
 
+---
+
 - 🔭 I’m currently working on contract work
 - 🌱 I’m currently learning mobile technologies
 - 👯 I’m looking to collaborate on mobile or web development project no matter what is
@@ -12,6 +14,8 @@
 - 📫 How to reach me: facebook, linkedin
 - 😄 Pronouns: He/Him ...
 - ⚡ Fun fact: 🐈💨
+
+---
 
 🛠 **Technologies & Tools**
 
@@ -25,7 +29,7 @@
 | 🧑🏼‍🎨 **Design** | <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="40" /> | <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="illustrator" width="40"/> | <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/blender_103868.png" alt="blender" width="40" /> | <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="figma" width="40" /> |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
-
+---
 
 &#x1f4c8; **GitHub Stats** 
 <!--<p><a href="https://github.com/reoxindat/reoxidant"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&hide=java,html&title_color=20232a&text_color=20232a&icon_color=2bbc8a"/></a></p> -->
@@ -38,42 +42,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&langs_count=8&layout=compact&title_color=EB4549" />
 </a>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&langs_count=8&layout=compact&title_color=000)]()-->
+---
 
-📊 **This week I spent my time on**
+<details>
+  <summary>:zap: WakaTime Stats</summary>
 
-[![reoxidant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reoxidant)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
 <!--START_SECTION:waka-->
-```text
-Swift      23 hrs 24 mins  ███████████████▓░░░░░░░░░   62.82 % 
-PHP        8 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.78 % 
-Cocoa      5 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Markdown   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-JSON       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-```
+
 <!--END_SECTION:waka-->
+
+</details>
+
+
+---
 
 | 📢 **Find me elsewhere** | <a href="https://linkedin.com/in/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reoxidant" height="30" width="30" /></a> | <a href="https://fb.com/soulmomental" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="soulmomental" height="30" width="30" /></a> | <a href="https://stackoverflow.com/users/13626085" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13626085" height="30" width="30" /></a> | <a href="https://www.behance.net/enfatiko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="enfatiko" height="30" width="30" /></a> |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
-
-<!-- OLD -->
-
-<!--![Reoxidant's github stats](https://github-readme-stats.vercel.app/api?username=reoxidant) -->
-
-<!--
-**reoxidant/reoxidant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
