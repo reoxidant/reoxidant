@@ -25,7 +25,6 @@
 | 📱 **Mobile** | <img src="https://cdn.icon-icons.com/icons2/643/PNG/512/swift-ios-bird-animal-figure-brand_icon-icons.com_59300.png" alt="swift" width="40"/> | <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png" alt="unity3d" width="40"/> | 
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
-
 | 🧑🏼‍🎨 **Design** | <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="40" /> | <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="illustrator" width="40"/> | <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/blender_103868.png" alt="blender" width="40" /> | <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="figma" width="40" /> |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
@@ -37,6 +36,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=reoxidant&count_private=true&show_icons=true&title_color=EB4549" />
 </a>
+
+</br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&langs_count=8&layout=compact&title_color=EB4549" />
