@@ -1,5 +1,7 @@
 ## Hello there 👋, I am Vitalii
 
+Sushiwok Project: [![wakatime](https://wakatime.com/badge/github/soulmomental/Sushiwok.svg)](https://wakatime.com/badge/github/soulmomental/Sushiwok)
+
 **Get in touch:**
 [![Gmail Badge](https://img.shields.io/badge/-kupper133@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kupper133@gmail.com)](mailto:kupper133@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-reoxidant-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reoxidant/)](https://www.linkedin.com/in/reoxidant/) [![Github Badge](https://img.shields.io/badge/-reoxidant-grey?style=flat&logo=github&logoColor=white&link=https://github.com/reoxidant/)](https://www.github.com/reoxidant/) ![Profile views](https://gpvc.arturio.dev/reoxidant)
