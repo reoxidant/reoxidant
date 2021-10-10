@@ -53,13 +53,13 @@ Sushiwok Project: [![wakatime](https://wakatime.com/badge/github/soulmomental/Su
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-196156%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-195502%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,863 Contributions in the Year 2021
+> 🏆 1,868 Contributions in the Year 2021
  > 
 > 📦 81.2 kB Used in GitHub's Storage 
  > 
@@ -98,19 +98,19 @@ Sunday       104 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Swift                    10 hrs 12 mins      █████████████████████████   100.0% 
+Swift                    9 hrs 10 mins       █████████████████████████   100.0% 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Xcode                    10 hrs 12 mins      █████████████████████████   100.0%
+Xcode                    9 hrs 10 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Sushiwok                 9 hrs 44 mins       ███████████████████████░░   95.43% 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
-swift-practice           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+Sushiwok                 8 hrs 42 mins       ███████████████████████░░   94.92% 
+Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.68% 
+swift-practice           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 💻 Operating System: 
-Mac                      10 hrs 12 mins      █████████████████████████   100.0%
+Mac                      9 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +127,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2021
+ Last Updated on 10/10/2021
 <!--END_SECTION:waka-->
 
 </details>
