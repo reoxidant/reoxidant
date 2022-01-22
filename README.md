@@ -24,10 +24,10 @@ Sushiwok Project: [![wakatime](https://wakatime.com/badge/github/reoxidant/Sushi
 | 🖥 **Web** | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="php" width="40"/>  | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="javascript" width="40"/>| 
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
-| 📱 **Mobile** | <img src="https://cdn.icon-icons.com/icons2/643/PNG/512/swift-ios-bird-animal-figure-brand_icon-icons.com_59300.png" alt="swift" width="40"/> | <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png" alt="unity3d" width="40"/> | 
+| 📱 **Mobile** | <img src="https://cdn.icon-icons.com/icons2/643/PNG/512/swift-ios-bird-animal-figure-brand_icon-icons.com_59300.png" alt="swift" width="40"/> | 
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
-| 🧑🏼‍🎨 **Design** | <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="40" /> | <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="illustrator" width="40"/> | <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/blender_103868.png" alt="blender" width="40" /> | <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="figma" width="40" /> |
+| 🧑🏼‍🎨 **Design** | <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="40" /> | <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="figma" width="40" /> |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
 ---
