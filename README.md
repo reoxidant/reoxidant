@@ -21,14 +21,14 @@ Sushiwok Project: [![wakatime](https://wakatime.com/badge/github/reoxidant/Sushi
 
 🛠 **Technologies & Tools**
 
-| 🖥 **Web** | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="php" width="40"/>  | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="javascript" width="40"/>| 
+| 🖥 **Web** | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="php" width="40"/>  | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="javascript" width="40"/>|
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
 | 📱 **Mobile** | <img src="https://cdn.icon-icons.com/icons2/643/PNG/512/swift-ios-bird-animal-figure-brand_icon-icons.com_59300.png" alt="swift" width="40"/> | 
-|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+|:--------------------------------------------------:|:--------------------------------------------------:|
 
 | 🧑🏼‍🎨 **Design** | <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="40" /> | <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="figma" width="40" /> |
-|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
 ---
 
