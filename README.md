@@ -1,6 +1,6 @@
-## Hello there 👋, I am Vitalii
+## Hello there 👋, I am Vitalii Shapovalov
 
-Sushiwok Project: [![wakatime](https://wakatime.com/badge/github/soulmomental/Sushiwok.svg)](https://wakatime.com/badge/github/soulmomental/Sushiwok)
+Sushiwok Project: [![wakatime](https://wakatime.com/badge/github/reoxidant/Sushiwok.svg)](https://wakatime.com/badge/github/reoxidant/Sushiwok)
 
 **Get in touch:**
 [![Gmail Badge](https://img.shields.io/badge/-kupper133@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kupper133@gmail.com)](mailto:kupper133@gmail.com) 
@@ -36,13 +36,13 @@ Sushiwok Project: [![wakatime](https://wakatime.com/badge/github/soulmomental/Su
 <!--<p><a href="https://github.com/reoxindat/reoxidant"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&hide=java,html&title_color=20232a&text_color=20232a&icon_color=2bbc8a"/></a></p> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=soulmomental&count_private=true&show_icons=true&title_color=EB4549" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reoxidant&count_private=true&show_icons=true&title_color=EB4549" />
 </a>
 
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulmomental&langs_count=8&layout=compact&title_color=EB4549" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&langs_count=8&layout=compact&title_color=EB4549" />
 </a>
 
 ---
@@ -138,7 +138,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 ---
 
-| 📢 **Find me elsewhere** | <a href="https://linkedin.com/in/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reoxidant" height="30" width="30" /></a> | <a href="https://fb.com/soulmomental" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="soulmomental" height="30" width="30" /></a> | <a href="https://stackoverflow.com/users/13626085" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13626085" height="30" width="30" /></a> | <a href="https://www.behance.net/enfatiko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="enfatiko" height="30" width="30" /></a> |
+| 📢 **Find me elsewhere** | <a href="https://linkedin.com/in/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reoxidant" height="30" width="30" /></a> | <a href="https://fb.com/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="reoxidant" height="30" width="30" /></a> | <a href="https://stackoverflow.com/users/13626085" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13626085" height="30" width="30" /></a> | <a href="https://www.behance.net/enfatiko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="enfatiko" height="30" width="30" /></a> |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 
 
