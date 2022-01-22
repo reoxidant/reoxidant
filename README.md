@@ -135,10 +135,10 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 </details>
 
-
+<!--
 ---
 
 | 📢 **Find me elsewhere** | <a href="https://linkedin.com/in/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reoxidant" height="30" width="30" /></a> | <a href="https://fb.com/reoxidant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="reoxidant" height="30" width="30" /></a> | <a href="https://stackoverflow.com/users/13626085" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13626085" height="30" width="30" /></a> | <a href="https://www.behance.net/enfatiko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="enfatiko" height="30" width="30" /></a> |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-
+-->
 
