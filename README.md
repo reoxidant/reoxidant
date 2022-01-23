@@ -1,7 +1,10 @@
 ## Hello there 👋, I am Vitalii Shapovalov
 
-#### Sushiwok [![wakatime](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/89cf8f0f-b9f1-46ad-b171-bda57a33475a.svg)](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/89cf8f0f-b9f1-46ad-b171-bda57a33475a) <br>
-#### DeezerMusicPlayer [![wakatime](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/b05c1915-e3be-45ac-80f8-75ee174cfa6e.svg)](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/b05c1915-e3be-45ac-80f8-75ee174cfa6e)
+### Spend time on projects: 
+
+- #### Sushiwok [![wakatime](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/89cf8f0f-b9f1-46ad-b171-bda57a33475a.svg)](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/89cf8f0f-b9f1-46ad-b171-bda57a33475a) <br>
+- #### DeezerMusicPlayer [![wakatime](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/b05c1915-e3be-45ac-80f8-75ee174cfa6e.svg)](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/b05c1915-e3be-45ac-80f8-75ee174cfa6e) <br>
+- #### OrderManagment [![wakatime](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/10c72232-cca2-46b2-bc83-0a8d5c5a668b.svg)](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/10c72232-cca2-46b2-bc83-0a8d5c5a668b) <br>
 
 **Get in touch:**
 [![Gmail Badge](https://img.shields.io/badge/-kupper133@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kupper133@gmail.com)](mailto:kupper133@gmail.com) 
