@@ -1,6 +1,7 @@
 ## Hello there 👋, I am Vitalii Shapovalov
 
-Sushiwok Project: [![wakatime](https://wakatime.com/badge/github/reoxidant/Sushiwok.svg)](https://wakatime.com/badge/github/reoxidant/Sushiwok)
+#### Sushiwok [![wakatime](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/89cf8f0f-b9f1-46ad-b171-bda57a33475a.svg)](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/89cf8f0f-b9f1-46ad-b171-bda57a33475a) <br>
+#### DeezerMusicPlayer [![wakatime](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/b05c1915-e3be-45ac-80f8-75ee174cfa6e.svg)](https://wakatime.com/badge/user/ee520ee9-0433-4c16-97dd-3a16a2e02fd4/project/b05c1915-e3be-45ac-80f8-75ee174cfa6e)
 
 **Get in touch:**
 [![Gmail Badge](https://img.shields.io/badge/-kupper133@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kupper133@gmail.com)](mailto:kupper133@gmail.com) 
