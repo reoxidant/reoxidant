@@ -59,13 +59,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 521 Contributions in the Year 2022
+> 🏆 538 Contributions in the Year 2022
  > 
-> 📦 127.8 kB Used in GitHub's Storage 
+> 📦 138.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,7 +86,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2022 00:58:33 UTC
+ Last Updated on 04/02/2022 00:55:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
