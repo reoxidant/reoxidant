@@ -57,21 +57,21 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 538 Contributions in the Year 2022
+> 🏆 322 Contributions in the Year 2022
  > 
 > 📦 138.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 16 Private Repositories  
  > 
 **I Mostly Code in Swift** 
 
@@ -86,7 +86,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2022 00:48:26 UTC
+ Last Updated on 06/02/2022 01:05:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
