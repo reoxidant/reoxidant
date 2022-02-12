@@ -57,36 +57,36 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 322 Contributions in the Year 2022
+> 🏆 360 Contributions in the Year 2022
  > 
-> 📦 138.6 kB Used in GitHub's Storage 
+> 📦 138.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    15 repos            ███████████░░░░░░░░░░░░░░   45.45% 
-PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   30.3% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Objective-C              3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
+Swift                    16 repos            ███████████░░░░░░░░░░░░░░   47.06% 
+PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Objective-C              3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
 
 ```
 
 
 
- Last Updated on 06/02/2022 01:05:07 UTC
+ Last Updated on 12/02/2022 01:01:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
