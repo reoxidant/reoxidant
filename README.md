@@ -76,17 +76,17 @@
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    18 repos            ████████████░░░░░░░░░░░░░   50.0% 
-PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Objective-C              3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
+Swift                    18 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Objective-C              3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 ```
 
 
 
- Last Updated on 07/02/2023 01:15:14 UTC
+ Last Updated on 08/02/2023 01:19:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
