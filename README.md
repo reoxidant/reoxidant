@@ -40,7 +40,9 @@
 
 &#x1f4c8; **GitHub Stats** 
 
+<!--
 <p><a href="https://github.com/reoxindat/reoxidant"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoxidant&hide=java,html&title_color=20232a&text_color=20232a&icon_color=2bbc8a"/></a></p>
+-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=reoxidant&count_private=true&show_icons=true&title_color=EB4549" />
